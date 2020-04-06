@@ -2,12 +2,20 @@
   "name": "nodepad",
   "version": "1.0.0",
   "description": "",
-  "main": "Gruntfile.js",
+  "main": "nodepad.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzewang/nodepad.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzewang/nodepad/issues"
+  },
+  "homepage": "https://github.com/suzewang/nodepad#readme",
   "devDependencies": {
     "grunt": "^1.1.0",
     "grunt-contrib-cssmin": "^3.0.0",
