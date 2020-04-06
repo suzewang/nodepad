@@ -6,16 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/suzewang/nodepad.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/suzewang/nodepad/issues"
-  },
-  "homepage": "https://github.com/suzewang/nodepad#readme",
   "devDependencies": {
     "grunt": "^1.1.0",
     "grunt-contrib-cssmin": "^3.0.0",
